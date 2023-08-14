@@ -7,7 +7,7 @@ Lambda function to send emails using the Brevo (SendinBlue) API.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/lambda-brevo.git
+   git clone https://github.com/damanmokha/lambda-brevo.git
 
    ```
 
