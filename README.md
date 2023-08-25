@@ -94,7 +94,7 @@ Replace https://your-api-gateway-url/your-resource with the actual URL of your d
 
 This completes the setup for your Lambda function to send emails using the Brevo (SendinBlue) API. Remember to secure your API and credentials appropriately and adjust configurations as needed for your specific use case.
 
-`` Replace placeholders like `your-username`, `YOUR_IAM_ROLE_WITH_LAMBDA_ACCESS_ARN`, and update URLs and other specific details as needed. This `README.md` template should help you provide clear instructions to users on how to set up and use your Lambda function for sending emails using the Brevo (SendinBlue) API. ``
+`` Replace placeholders like `your-username`, `YOUR_IAM_ROLE_WITH_LAMBDA_ACCESS_ARN`, and update URLs and other specific details as needed.``
 
 ## License
 
